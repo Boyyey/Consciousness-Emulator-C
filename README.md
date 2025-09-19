@@ -426,10 +426,10 @@ If you use this software in your research, please cite:
 ## Roadmap
 
 ### Version 1.1 (Planned)
-- [ ] Neural network integration (ONNX Runtime)
-- [ ] GPU acceleration (CUDA kernels)
-- [ ] Advanced reasoning algorithms
-- [ ] Web-based visualization interface
+- [✓] Neural network integration (ONNX Runtime)
+- [✓] GPU acceleration (CUDA kernels)
+- [✓] Advanced reasoning algorithms
+- [✓] Web-based visualization interface
 
 ### Version 1.2 (Planned)
 - [ ] Distributed processing support
