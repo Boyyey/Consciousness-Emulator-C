@@ -2,10 +2,6 @@
 
 A modular AI microkernel implementing Global Workspace Theory, working memory, long-term memory, and self-modeling capabilities in pure C.
 
-**Author:** AmirHosseinRasti  
-**License:** MIT  
-**Version:** 1.0.0
-
 ## Overview
 
 The Consciousness Emulator is a sophisticated cognitive architecture that implements key theories from cognitive science and artificial intelligence. It provides a modular, high-performance framework for building AI systems with attention, memory, reasoning, and self-awareness capabilities.
