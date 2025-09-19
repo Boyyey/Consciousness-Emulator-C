@@ -443,12 +443,6 @@ If you use this software in your research, please cite:
 - [ ] Advanced self-modeling capabilities
 - [ ] Integration with robotics platforms
 
-## Support
-
-- **Documentation**: [Wiki](https://github.com/boyyey/consciousness-emulator-c/wiki)
-- **Issues**: [GitHub Issues](https://github.com/boyyey/consciousness-emulator-c/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/bopyyey/consciousness-emulator-c/discussions)
-
 ---
 
 **Built with ❤️ by AmirHosseinRasti**
